@@ -315,6 +315,9 @@ Your feedback and suggestions are always welcome.
 
 ---
 
-## 📄 License
+## 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-This project is licensed under the MIT License.
+Disclaimer
+
+This repository is intended for educational and portfolio purposes. The healthcare dataset included in this project is a sample dataset and does not contain real patient information or protected health information (PHI). Any resemblance to actual persons, organizations, or medical records is purely coincidental.

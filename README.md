@@ -249,10 +249,8 @@ Healthcare-Executive-Analytics-Dashboard
 │     ├── DATA_MODEL.md
 │     ├── DAX_MEASURES.md
 │     ├── DEPLOYMENT_GUIDE.md
-│     └── CHANGELOG.md
 │
 ├── Images
-│     ├── Dashboard-Hero.png
 │     ├── ExecutiveOverview.png
 │     ├── PatientExperience.png
 │     ├── ClinicalAnalytics.png

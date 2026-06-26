@@ -86,7 +86,7 @@ The dashboard delivers executive-ready KPIs with interactive filtering, drill-do
 ---
 # 📸 Dashboard Gallery
 
-### Executive Overview
+### Power BI Executive Overview Dashboard
 
 <p align="center">
 <img
@@ -97,7 +97,7 @@ width="100%">
 
 ---
 
-### Patient Experience
+### Patient Experience Dashboard
 
 <p align="center">
 <img src="Images/PatientExperience.png" 
@@ -108,7 +108,7 @@ alt="Power BI Healthcare Patient Experience"
 
 ---
 
-### Clinical Analytics
+### Clinical Analytics Dashboard
 
 <p align="center">
 <img src="Images/ClinicalAnalytics.png" width="100%">
@@ -116,7 +116,7 @@ alt="Power BI Healthcare Patient Experience"
 
 ---
 
-### Financial Analytics
+### Financial Analytics Dashboard
 
 <p align="center">
 <img src="Images/FinancialAnalytics.png" width="100%">
@@ -124,7 +124,7 @@ alt="Power BI Healthcare Patient Experience"
 
 ---
 
-### Operational Analytics
+### Operational Analytics Dashboard
 
 <p align="center">
 <img src="Images/OperationalAnalytics.png" width="100%">
@@ -153,11 +153,11 @@ The solution follows a Star Schema consisting of a centralized fact table and a 
 
 | Module | Highlights |
 |---------|------------|
-| 📊 Executive Overview | KPI Cards, YoY Analysis, Navigation |
-| 😊 Patient Experience | Satisfaction, Wait Time, Demographics |
-| 🩺 Clinical Analytics | Diagnosis, Admissions, Departments |
-| 💰 Financial Analytics | Revenue, Cost, Insurance |
-| ⚙️ Operational Analytics | Visit Trends, Wait Time, Efficiency |
+| 📊 Executive Dashboard Overview | KPI Cards, YoY Analysis, Navigation |
+| 😊 Patient Experience Dashboard | Satisfaction, Wait Time, Demographics |
+| 🩺 Clinical Analytics Dashboard | Diagnosis, Admissions, Departments |
+| 💰 Financial Analytics Dashboard | Revenue, Cost, Insurance |
+| ⚙️ Operational Analytics Dashboard| Visit Trends, Wait Time, Efficiency |
 
 ---
 ## 🛠️ Technology Stack

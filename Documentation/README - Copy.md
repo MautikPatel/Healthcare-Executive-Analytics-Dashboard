@@ -42,19 +42,18 @@ The Healthcare Executive Analytics Dashboard empowers hospital executives and de
 
 ### 📊 Project Highlights
 
-| Feature             | Details                                         |
-| :------------------ | :---------------------------------------------- |
-| 📄 Dashboard Pages  | **5** Interactive Executive Dashboard Pages     |
-| 📈 DAX Measures     | **100+** Business & Time Intelligence Measures  |
-| 🏗️ Data Model      | Enterprise **Star Schema** Design               |
-| 🎨 Dashboard Design | Modern Executive UI with Interactive Navigation |
-| 📅 Analytics        | Year-over-Year, Previous Year & Trend Analysis  |
-| 📌 KPIs             | Dynamic KPI Cards with Conditional Formatting   |
-| 🧠 Insights         | Dynamic Executive Insights & Recommendations    |
-| 📚 Documentation    | Complete Technical & Deployment Documentation   |
+| 🚀 Feature | 💡 Details |
+|:-----------|:-----------|
+| 📄 **Dashboard Pages** | **5 Interactive Dashboard Pages** covering Executive Overview, Patient Experience, Clinical Analytics, Financial Analytics, and Operational Analytics. |
+| 📈 **DAX Measures** | **100+ Advanced DAX Measures** including KPIs, Time Intelligence, YoY Analysis, Previous Year Comparisons, Rankings, and Dynamic Calculations. |
+| 🏗️ **Data Model** | **Enterprise Star Schema** designed for scalable reporting, high-performance analytics, and reusable semantic modeling. |
+| 🎨 **Dashboard Design** | **Modern Executive UI** featuring interactive navigation, responsive layouts, consistent color themes, and intuitive user experience. |
+| 📅 **Analytics** | **Advanced Time Intelligence** with Year-over-Year (YoY), Previous Year (PY), Monthly Trends, and Executive KPI Analysis. |
+| 📌 **Executive KPIs** | **25+ Dynamic KPI Cards** with conditional formatting, drill-through capability, interactive filtering, and performance monitoring. |
+| 🧠 **Executive Insights** | **Dynamic Business Insights** and executive recommendations generated using DAX measures and KPI-driven analytics. |
+| 📚 **Documentation** | **Comprehensive Project Documentation** including Architecture, Data Model, DAX Library, Design Guidelines, and Deployment Guide. |
 
 ---
-
 ### 📈 Executive KPIs
 
 The dashboard delivers executive-ready KPIs with interactive filtering, drill-down capabilities, and Year-over-Year comparisons.
@@ -86,13 +85,12 @@ The dashboard delivers executive-ready KPIs with interactive filtering, drill-do
 ---
 # 📸 Dashboard Gallery
 
-### Power BI Executive Overview Dashboard
+### Executive Overview Dashboard
 
 <p align="center">
-<img
-src="Images/ExecutiveOverview.png"
-alt="Power BI Healthcare Executive Dashboard"
-width="100%">
+  <img src="Images/ExecutiveOverview.png"
+       alt="Power BI Healthcare Executive Analytics Dashboard - Executive Overview with KPI cards, patient metrics, financial performance, and operational insights"
+       width="100%">
 </p>
 
 ---
@@ -100,10 +98,9 @@ width="100%">
 ### Patient Experience Dashboard
 
 <p align="center">
-<img src="Images/PatientExperience.png" 
-alt="Power BI Healthcare Patient Experience"      
-      width="100%">
-
+  <img src="Images/PatientExperience.png"
+       alt="Power BI Patient Experience Dashboard showing patient satisfaction, wait time analysis, demographic insights, and healthcare performance metrics"
+       width="100%">
 </p>
 
 ---
@@ -111,7 +108,9 @@ alt="Power BI Healthcare Patient Experience"
 ### Clinical Analytics Dashboard
 
 <p align="center">
-<img src="Images/ClinicalAnalytics.png" width="100%">
+  <img src="Images/ClinicalAnalytics.png"
+       alt="Power BI Clinical Analytics Dashboard displaying diagnosis analysis, department performance, admission trends, and clinical KPIs"
+       width="100%">
 </p>
 
 ---
@@ -119,7 +118,9 @@ alt="Power BI Healthcare Patient Experience"
 ### Financial Analytics Dashboard
 
 <p align="center">
-<img src="Images/FinancialAnalytics.png" width="100%">
+  <img src="Images/FinancialAnalytics.png"
+       alt="Power BI Financial Analytics Dashboard presenting treatment costs, revenue analysis, insurance provider performance, and financial KPIs"
+       width="100%">
 </p>
 
 ---
@@ -127,39 +128,33 @@ alt="Power BI Healthcare Patient Experience"
 ### Operational Analytics Dashboard
 
 <p align="center">
-<img src="Images/OperationalAnalytics.png" width="100%">
+  <img src="Images/OperationalAnalytics.png"
+       alt="Power BI Operational Analytics Dashboard featuring visit trends, department efficiency, wait time monitoring, and operational performance metrics"
+       width="100%">
 </p>
-
-# 🏗️ Solution Architecture
-
-<p align="center">
-<img src="Images/Architecture.png" width="100%">
-</p>
-
-For detailed architecture documentation, see:
-
-📄 Documentation/ARCHITECTURE.md
-
-# 🗄️ Data Model
-
-<p align="center">
-<img src="Images/DataModel.png" width="100%">
-</p>
-
-The solution follows a Star Schema consisting of a centralized fact table and a conformed Date dimension to support high-performance analytical reporting and reusable DAX measures.
 
 ---
-## ✨ Features
 
-| Module | Highlights |
-|---------|------------|
-| 📊 Executive Dashboard Overview | KPI Cards, YoY Analysis, Navigation |
-| 😊 Patient Experience Dashboard | Satisfaction, Wait Time, Demographics |
-| 🩺 Clinical Analytics Dashboard | Diagnosis, Admissions, Departments |
-| 💰 Financial Analytics Dashboard | Revenue, Cost, Insurance |
-| ⚙️ Operational Analytics Dashboard| Visit Trends, Wait Time, Efficiency |
+## 🏗️ Solution Architecture
+
+<p align="center">
+  <img src="Images/Architecture.png"
+       alt="Healthcare Executive Analytics Solution Architecture showing data flow from CSV dataset through Power Query, Star Schema data model, DAX calculations, and interactive Power BI dashboard"
+       width="100%">
+</p>
 
 ---
+
+## 🗄️ Data Model
+
+<p align="center">
+  <img src="Images/DataModel.png"
+       alt="Power BI Star Schema Data Model illustrating HealthcareData fact table, Date dimension, relationships, and semantic model for healthcare analytics"
+       width="100%">
+</p>
+
+---
+
 ## 🛠️ Technology Stack
 
 | Category                         | Technology                      | Purpose                                                            |

@@ -1,7 +1,7 @@
-# 🏥 Healthcare Executive Analytics Dashboard
+# 🏥 Healthcare Executive Analytics Dashboard | Power BI | DAX | Healthcare Analytics
 
 > **Enterprise Power BI Portfolio Project**
-> Executive Healthcare Analytics | Power BI | DAX | Power Query | Data Modeling
+> Healthcare Analytics • Executive Dashboard • Power BI • DAX • Power Query • Star Schema • Business Intelligence
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Enterprise-F2C811?logo=powerbi\&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-100%2B%20Measures-blue)
@@ -13,7 +13,8 @@
 
 ### Transforming Healthcare Data into Executive Decisions
 
-An enterprise-grade Power BI dashboard designed to help healthcare leaders monitor operational performance, financial health, clinical outcomes, and patient experience through interactive analytics and executive-ready insights.
+This enterprise Power BI Healthcare Analytics Dashboard demonstrates end-to-end Business Intelligence development using Power BI, DAX, Power Query, Star Schema data modeling, KPI reporting, executive dashboards, and interactive healthcare analytics. The project showcases how operational, financial, clinical, and patient experience data can be transformed into executive-ready insights for strategic decision-making.
+
 
 
 ## 📌 Project Overview
@@ -25,28 +26,73 @@ This project demonstrates a production-style Power BI Executive Analytics Dashbo
 The solution combines modern dashboard design principles with advanced Power BI development techniques including data modeling, Power Query, DAX, interactive navigation, dynamic insights, and executive-level reporting.
 
 
----
+## 🎯 Business Objectives
 
-# 🎯 Business Objectives
+The Healthcare Executive Analytics Dashboard empowers hospital executives and decision-makers with interactive, data-driven insights to:
 
-The dashboard enables executives to:
-
-* Monitor patient satisfaction and service quality
-* Track year-over-year healthcare performance
-* Analyze clinical outcomes across departments
-* Monitor treatment costs and revenue trends
-* Improve operational efficiency
-* Identify bottlenecks using dynamic executive insights
-* Support strategic decision making using KPI-driven analytics
+* Monitor patient satisfaction and overall service quality
+* Track year-over-year healthcare performance and operational trends
+* Analyze clinical outcomes across departments and diagnosis categories
+* Monitor treatment costs, revenue, and financial performance
+* Improve operational efficiency through KPI-driven analytics
+* Identify bottlenecks using dynamic executive insights and recommendations
+* Support strategic decision-making with real-time business intelligence
 
 ---
 
+### 📊 Project Highlights
+
+| Feature             | Details                                         |
+| :------------------ | :---------------------------------------------- |
+| 📄 Dashboard Pages  | **5** Interactive Executive Dashboard Pages     |
+| 📈 DAX Measures     | **100+** Business & Time Intelligence Measures  |
+| 🏗️ Data Model      | Enterprise **Star Schema** Design               |
+| 🎨 Dashboard Design | Modern Executive UI with Interactive Navigation |
+| 📅 Analytics        | Year-over-Year, Previous Year & Trend Analysis  |
+| 📌 KPIs             | Dynamic KPI Cards with Conditional Formatting   |
+| 🧠 Insights         | Dynamic Executive Insights & Recommendations    |
+| 📚 Documentation    | Complete Technical & Deployment Documentation   |
+
+---
+
+### 📈 Executive KPIs
+
+The dashboard delivers executive-ready KPIs with interactive filtering, drill-down capabilities, and Year-over-Year comparisons.
+
+| Operational KPIs              | Financial KPIs             |
+| :---------------------------- | :------------------------- |
+| 👥 Total Patients             | 💰 Total Treatment Revenue |
+| 🏥 Total Visits               | 💵 Revenue per Patient     |
+| 📥 Admission Rate             | 💳 Revenue per Visit       |
+| ⏱️ Average Wait Time          |                            |
+| 😊 Average Satisfaction Score |                            |
+| 🚑 Emergency Visits           |                            |
+| 🚑 Ambulance Visits           |                            |
+| 👨‍⚕️ Observation Patients    |                            |
+
+---
+## 📌 Project Snapshot
+
+| Metric | Value |
+|--------|------:|
+| Dashboard Pages | 5 |
+| DAX Measures | 100+ |
+| Power Query Transformations | 30+ |
+| Fact Tables | 1 |
+| Dimension Tables | 1 |
+| KPIs | 25+ |
+| Documentation Files | 5 |
+
+---
 # 📸 Dashboard Gallery
 
 ### Executive Overview
 
 <p align="center">
-<img src="Images/ExecutiveOverview.png" width="100%">
+<img
+src="Images/ExecutiveOverview.png"
+alt="Power BI Healthcare Executive Dashboard"
+width="100%">
 </p>
 
 ---
@@ -54,7 +100,10 @@ The dashboard enables executives to:
 ### Patient Experience
 
 <p align="center">
-<img src="Images/PatientExperience.png" width="100%">
+<img src="Images/PatientExperience.png" 
+alt="Power BI Healthcare Patient Experience"      
+      width="100%">
+
 </p>
 
 ---
@@ -99,8 +148,6 @@ For detailed architecture documentation, see:
 
 The solution follows a Star Schema consisting of a centralized fact table and a conformed Date dimension to support high-performance analytical reporting and reusable DAX measures.
 
-
-
 ---
 ## ✨ Features
 
@@ -113,129 +160,32 @@ The solution follows a Star Schema consisting of a centralized fact table and a 
 | ⚙️ Operational Analytics | Visit Trends, Wait Time, Efficiency |
 
 ---
+## 🛠️ Technology Stack
 
-## 🛠 Technology Stack
-
-| Category | Technologies |
-|----------|--------------|
-| BI Platform | Power BI Desktop |
-| ETL | Power Query (M) |
-| Data Modeling | Star Schema |
-| Business Logic | DAX |
-| Database | SQL |
-| Version Control | Git & GitHub |
-| Domain | Healthcare Analytics |
-
----
-
-# 📈 Executive KPIs
-
-The dashboard includes dynamic KPIs including:
-
-* Total Patients
-* Total Visits
-* Admission Rate
-* Average Satisfaction Score
-* Average Wait Time
-* Total Treatment Revenue
-* Revenue Per Patient
-* Revenue Per Visit
-* Emergency Visits
-* Observation Patients
-* Ambulance Visits
-
-All KPIs support:
-
-* Dynamic filtering
-* Previous Year comparison
-* Year-over-Year growth
-* Interactive drill-down
+| Category                         | Technology                      | Purpose                                                            |
+| :------------------------------- | :------------------------------ | :----------------------------------------------------------------- |
+| 📊 **Business Intelligence**     | Microsoft Power BI Desktop      | Interactive dashboard development and reporting                    |
+| 🔄 **Data Transformation (ETL)** | Power Query (M)                 | Data extraction, cleansing, and transformation                     |
+| 📂 **Data Source**               | CSV Dataset                     | Healthcare operational and clinical data                           |
+| 🏗️ **Data Modeling**            | Star Schema                     | High-performance semantic data model                               |
+| 🧠 **Business Logic**            | DAX (Data Analysis Expressions) | KPI calculations, time intelligence, and business metrics          |
+| 📅 **Time Intelligence**         | DAX Functions                   | Year-over-Year analysis, Previous Year comparisons, trend analysis |
+| 🎨 **Visualization**             | Power BI Visuals                | Interactive charts, KPI cards, slicers, and executive dashboards   |
+| 📁 **Version Control**           | Git & GitHub                    | Source code management and collaboration                           |
+| 🏥 **Business Domain**           | Healthcare Analytics            | Executive reporting and healthcare performance monitoring          |
 
 ---
 
-# 🧠 Advanced DAX Highlights
+# 📚 Documentation
 
-The solution includes more than **100 DAX measures**, including:
+This repository includes comprehensive project documentation.
 
-* Time Intelligence
-* SAMEPERIODLASTYEAR
-* Dynamic KPI Calculations
-* Previous Year Analysis
-* Growth Percentage Calculations
-* Conditional Formatting
-* Executive Insight Generation
-* Dynamic Recommendation Engine
-* Ranking
-* Top N Analysis
-* Financial KPIs
-* Operational KPIs
-
----
-
-# 🏗 Solution Architecture
-
-The solution follows a modern Power BI architecture.
-
-```text
-CSV Dataset
-      │
-      ▼
-Power Query (ETL)
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Star Schema Data Model
-      │
-      ▼
-DAX Measures
-      │
-      ▼
-Interactive Dashboard
-      │
-      ▼
-Executive Decision Making
-```
-
-*A detailed architecture diagram is available in the Documentation folder.*
-
----
-
-# 🗂 Data Model
-
-The dashboard is built using a Star Schema.
-
-**Fact Table**
-
-* HealthcareData
-
-**Dimension Tables**
-
-* DateTable
-
-The model supports:
-
-* One-to-Many Relationships
-* Time Intelligence
-* High Performance DAX
-* Scalable Report Design
-
-*A detailed data model diagram is available in the Documentation folder.*
-
----
-
-# 🛠 Technology Stack
-
-| Technology                 | Purpose               |
-| -------------------------- | --------------------- |
-| Microsoft Power BI Desktop | Dashboard Development |
-| DAX                        | Business Logic        |
-| Power Query                | Data Transformation   |
-| SQL                        | Data Preparation      |
-| Star Schema                | Data Modeling         |
-| Git & GitHub               | Version Control       |
-
+| Document | Description |
+|----------|-------------|
+| ARCHITECTURE.md | Solution Architecture |
+| DATA_MODEL.md | Star Schema Documentation |
+| DAX_MEASURES.md | Complete DAX Measure Library |
+| DEPLOYMENT_GUIDE.md | Deployment Instructions |
 ---
 
 # 📁 Repository Structure
@@ -245,17 +195,14 @@ Healthcare-Executive-Analytics-Dashboard
 │
 ├── Dashboard
 │     └── Healthcare Executive Analytics Dashboard.pbix
-│
 ├── Dataset
 │     └── HealthcareData_Sample.csv
-│
 ├── Documentation
-│     ├── README.md
+│     ├── 
 │     ├── ARCHITECTURE.md
 │     ├── DATA_MODEL.md
 │     ├── DAX_MEASURES.md
 │     ├── DEPLOYMENT_GUIDE.md
-│
 ├── Images
 │     ├── ExecutiveOverview.png
 │     ├── PatientExperience.png
@@ -264,11 +211,10 @@ Healthcare-Executive-Analytics-Dashboard
 │     ├── OperationalAnalytics.png
 │     ├── Architecture.png
 │     └── DataModel.png
-│
-└── LICENSE
-```
+├── LICENSE
+└── README.md
 
----
+```
 
 # 🚀 Getting Started
 
@@ -279,98 +225,64 @@ Healthcare-Executive-Analytics-Dashboard
 
 ---
 
-# 🔮 Future Enhancements
+### 🔮 Future Enhancements
 
-* Predictive Analytics using Machine Learning
-* AI-assisted Insights
-* Power BI Service Deployment
-* Incremental Refresh
-* Row-Level Security (RLS)
-* Mobile Layout Optimization
-* Fabric Integration
-* Real-time Streaming Data
+The solution is designed with scalability in mind and can be extended with enterprise capabilities such as:
 
----
-
-# 👨‍💻 Author
-
-**Mautik Patel**
-
-Enterprise Data, Analytics & AI Transformation Professional
-
-### Expertise
-
-* Enterprise BI Solutions
-* Microsoft Power BI
-* SQL Server
-* Power Query
-* DAX
-* Healthcare Analytics
-* Executive Dashboard Design
-* Data Modeling
-* ETL Development
-* AI & Analytics Strategy
+* 🤖 AI-Assisted Insights & Copilot Integration
+* 📈 Predictive Analytics using Machine Learning
+* ☁️ Microsoft Fabric Integration
+* 🔄 Incremental Data Refresh
+* 🔐 Row-Level Security (RLS)
+* 📱 Mobile-Optimized Dashboard Layout
+* ⚡ Real-Time Streaming Data
+* 🌐 Power BI Service Deployment & Scheduled Refresh
 
 ---
 
-## 👨‍💻 About the Author
+# 👨‍💻 About the Author
 
-**Mautik Patel**
+## Mautik Patel
 
-Enterprise Data, Analytics & AI Transformation Professional
+**Enterprise Data, Analytics & AI Transformation Professional**
 
-Specializing in:
+Passionate about transforming complex business data into meaningful insights through modern Business Intelligence, Analytics, and AI-driven solutions. With expertise spanning healthcare, enterprise reporting, and executive analytics, I design scalable, data-driven solutions that enable organizations to make informed strategic decisions.
 
-- Power BI Enterprise Solutions
-- Healthcare Analytics
-- Microsoft Fabric (Learning)
-- SQL & Data Warehousing
-- Power Query
-- DAX
-- Executive Dashboard Design
-- ETL Development
-- Data Strategy
-- AI-Driven Analytics
+### 💼 Areas of Expertise
 
-📫 Connect with me on LinkedIn
+- 📊 Enterprise Business Intelligence Solutions
+- 📈 Microsoft Power BI & Executive Dashboard Design
+- 🧠 DAX & Advanced Data Modeling
+- 🔄 Power Query (ETL) & Data Transformation
+- 🗄️ SQL Server & Data Warehousing
+- 🏥 Healthcare Analytics & KPI Reporting
+- 📐 Star Schema & Semantic Model Design
+- ⚙️ Enterprise ETL Development
+- 🤖 AI-Driven Analytics & Data Strategy
+- ☁️ Microsoft Fabric (Currently Learning)
 
-⭐ Explore more projects on GitHub
+### 🌐 Connect
 
----
-## 🚀 Project Highlights
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mautikpatel
+- 💻 **GitHub:** [*Explore more enterprise analytics and AI projects*](https://github.com/MautikPatel)
 
-- 📊 6 Executive Dashboard Pages
-- 📈 100+ DAX Measures
-- ⚡ Star Schema Data Model
-- 🎨 Enterprise UI Design System
-- 📅 Time Intelligence (YoY, PY, Trends)
-- 📖 Complete Technical Documentation
-- 🔄 Interactive Page Navigation
-- 🧠 Dynamic Executive Insights
-
----
-
-# ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub.
-
-Your feedback and suggestions are always welcome.
-
----
+> *"Turning Data into Decisions. Turning Insights into Impact."*
 
 ---
 
 <p align="center">
 
-Built with ❤️ using Microsoft Power BI
+## ⭐ Thank You for Visiting
 
-Designed & Developed by
+If you found this project helpful, please consider giving it a **⭐ Star** on GitHub. Your support, feedback, and suggestions are always appreciated.
+<br>
+### Built with ❤️ using Microsoft Power BI
 
-## Mautik Patel
+**Designed & Developed by Mautik Patel**
 
-Enterprise Data • Analytics • AI
+*Enterprise Data • Analytics • AI Transformation*
 
-⭐ If you enjoyed this project, please consider starring the repository.
+🚀 *Turning Data into Decisions. Turning Insights into Impact.*
 
 </p>
 
@@ -379,6 +291,6 @@ Enterprise Data • Analytics • AI
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Disclaimer
+## Disclaimer
 
 This repository is intended for educational and portfolio purposes. The healthcare dataset included in this project is a sample dataset and does not contain real patient information or protected health information (PHI). Any resemblance to actual persons, organizations, or medical records is purely coincidental.

@@ -25,7 +25,10 @@ The solution combines modern dashboard design principles with advanced Power BI 
 # 📸 Dashboard Preview
 
 > **Dashboard Preview Images**
-
+<p align="center">
+<img src="Images/ExecutiveOverview.png" width="100%">
+          
+</p>
 *(Screenshots will be added here after deployment.)*
 
 * Executive Overview
